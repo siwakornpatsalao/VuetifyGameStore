@@ -1,0 +1,27 @@
+
+
+.textG{
+     text-shadow: 4px 4px 8px blue;
+}
+   .text1{
+    font-size: 31px;
+}
+.text2{
+    font-size:18px;
+    margin-top:25px;
+    margin-left:10px;
+}
+.custom{
+    background: black;
+}
+
+.card{
+    margin-bottom: -35px;
+}
+
+.img{
+    cursor: default;
+}
+.img:hover{
+    cursor: pointer;
+}

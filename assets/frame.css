@@ -1,0 +1,12 @@
+.frame{
+    transform: translateY(0);
+}
+.frame:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 0 10px 2px white;
+    transition: transform 0.3s ease-in-out;
+}   
+
+hr {
+    border: 1px solid white;
+}
